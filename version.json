@@ -1,0 +1,15 @@
+{
+  "version": "1.0.1",
+  "release_date": "2026-04-25",
+  "download_url": "https://github.com/YourUsername/VideoTranslator/releases/download/v1.0.1/VideoTranslator.exe",
+  "changelog": [
+    "✨ Added in-app auto-update system",
+    "🎬 Video translation with AI subtitles",
+    "🎙️ Text-to-speech voice generation",
+    "🎨 Color adjustment and video filters",
+    "🖼️ Logo overlay support",
+    "📝 Subtitle editor with timeline",
+    "🔊 Vocal removal feature",
+    "💾 Project save/load functionality"
+  ]
+}
