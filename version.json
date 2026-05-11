@@ -1,9 +1,13 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.10",
   "release_date": "2026-04-25",
-  "download_url": "https://github.com/YourUsername/VideoTranslator/releases/download/v1.0.1/VideoTranslator.exe",
+  "download_url": "https://github.com/on27613-jpg/Em-Dy/releases/download/v1.0.10/VideoTranslator.exe",
+  "sha256": "",
+  "file_size": 52428800,
   "changelog": [
-    "✨ Added in-app auto-update system",
+    "✨ Added professional auto-update system with SHA256 verification",
+    "🔒 Added security: file validation and rollback protection",
+    "🎨 Added modern update dialog UI",
     "🎬 Video translation with AI subtitles",
     "🎙️ Text-to-speech voice generation",
     "🎨 Color adjustment and video filters",
@@ -11,5 +15,8 @@
     "📝 Subtitle editor with timeline",
     "🔊 Vocal removal feature",
     "💾 Project save/load functionality"
+  ]
+}
+
   ]
 }
